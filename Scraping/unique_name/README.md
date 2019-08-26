@@ -1,0 +1,1 @@
+This package can be used to fix duplicate name problem in the MongoDB.

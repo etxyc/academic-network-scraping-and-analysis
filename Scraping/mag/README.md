@@ -1,0 +1,1 @@
+This package can be used to read MAG txt file into JSON format, and store it into MongoDB.
